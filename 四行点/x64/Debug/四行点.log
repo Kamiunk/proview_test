@@ -1,0 +1,16 @@
+﻿  源.cpp
+D:\cdemo\四行点\源.cpp(6,10): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+D:\cdemo\四行点\源.cpp(6,10): message : 请考虑在格式字符串中使用“%lld”
+D:\cdemo\四行点\源.cpp(6,10): message : 请考虑在格式字符串中使用“%Id”
+D:\cdemo\四行点\源.cpp(6,10): message : 请考虑在格式字符串中使用“%I64d”
+D:\cdemo\四行点\源.cpp(6,10): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“__int64 *”
+D:\cdemo\四行点\源.cpp(6,10): message : 请考虑在格式字符串中使用“%lld”
+D:\cdemo\四行点\源.cpp(6,10): message : 请考虑在格式字符串中使用“%Id”
+D:\cdemo\四行点\源.cpp(6,10): message : 请考虑在格式字符串中使用“%I64d”
+D:\cdemo\四行点\源.cpp(7,13): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\cdemo\四行点\源.cpp(7,10): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\cdemo\四行点\源.cpp(8,9): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“__int64”
+D:\cdemo\四行点\源.cpp(8,9): message : 请考虑在格式字符串中使用“%lld”
+D:\cdemo\四行点\源.cpp(8,9): message : 请考虑在格式字符串中使用“%Id”
+D:\cdemo\四行点\源.cpp(8,9): message : 请考虑在格式字符串中使用“%I64d”
+  四行点.vcxproj -> D:\cdemo\四行点\x64\Debug\四行点.exe

@@ -1,0 +1,4 @@
+﻿  正在生成代码
+D:\VS IDE\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1134,5): error MSB6006: “link.exe”已退出，代码为 1257。
+d:\cdemo\哥德巴赫猜想plus max\源.c : fatal error C1301: 访问程序数据库 x64\Release\哥德巴赫猜想plus max.ipdb 时出错，无效的格式，请删除并重新生成
+LINK : fatal error LNK1257: 代码生成失败

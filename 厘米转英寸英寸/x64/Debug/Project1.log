@@ -1,0 +1,4 @@
+﻿  源.c
+D:\cdemo\Project1\源.c(6,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\cdemo\Project1\源.c(7,33): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Project1.vcxproj -> D:\cdemo\Project1\x64\Debug\Project1.exe
