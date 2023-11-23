@@ -1,0 +1,6 @@
+﻿  源.c
+D:\cdemo\调试\源.c(6,18): warning C4244: “初始化”: 从“long double”转换到“int”，可能丢失数据
+D:\cdemo\调试\源.c(4,20): warning C4101: “j”: 未引用的局部变量
+D:\cdemo\调试\源.c(4,17): warning C4101: “i”: 未引用的局部变量
+D:\cdemo\调试\源.c(4,40): warning C4101: “n”: 未引用的局部变量
+  调试.vcxproj -> D:\cdemo\调试\x64\Debug\调试.exe
